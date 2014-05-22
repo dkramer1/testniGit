@@ -23,5 +23,8 @@ WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
     Application->ShowException(&exception);
   }
   return 0;
+  /*
+  delamo  spremembe na veji-2
+  */
 }
 //---------------------------------------------------------------------------
