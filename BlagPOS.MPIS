@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<mpis_project>
+<tip>EXE</tip>
+<ime>BlagPOS</ime>
+<glavni_modul>BlagPOS</glavni_modul>
+<opis>Konfiguriranje POS terminalov</opis>
+  <libs>
+    <lib>Ktst2</lib>
+  </libs>
+  <bpls>
+    <bpl>rtl</bpl>
+    <bpl>vcl</bpl>
+    <bpl>vcldb</bpl>
+    <bpl>vcldbx</bpl>
+    <bpl>vclx</bpl>
+    <bpl>xmlrtl</bpl>
+    <bpl>Indy60</bpl>
+    <bpl>asgc6</bpl>
+    <bpl>bdertl</bpl>
+    <bpl>dbrtl</bpl>
+    <bpl>inet</bpl>
+    <bpl>pb200r65</bpl>
+    <bpl>pc200r65</bpl>
+    <bpl>ps200r65</bpl>
+    <bpl>qrpt</bpl>
+    <bpl>merlanguages</bpl>
+    <bpl>ktsyst2</bpl>
+    <bpl>kovsyst2</bpl>
+    <bpl>KTLOOKUP2</bpl>
+    <bpl>kov2</bpl>
+    <bpl>Ktmp2</bpl>
+  </bpls>
+  <forme>
+    <forma>BlagPOS0100</forma>
+    <forma>BlagPOSDM</forma>
+    <forma>untPostaviPOS</forma>
+  </forme>
+  <moduli>
+    <modul>BlagPOS</modul>
+    <modul>BlagPOS0100_data</modul>
+    <modul>BlagPOS_utils</modul>
+  </moduli>
+</mpis_project>
