@@ -38,6 +38,5 @@
   <moduli>
     <modul>BlagPOS</modul>
     <modul>BlagPOS0100_data</modul>
-    <modul>BlagPOS_utils</modul>
   </moduli>
 </mpis_project>
