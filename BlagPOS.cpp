@@ -25,5 +25,8 @@ WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
   return 0;
   //
   // naistem mestu naredimo še spremebno na veji-1
+  /*
+  delamo  spremembe na veji-2
+  */
 }
 //---------------------------------------------------------------------------
