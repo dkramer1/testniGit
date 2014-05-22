@@ -28,5 +28,6 @@ WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
   /*
   delamo  spremembe na veji-2
   */
+  // še malo sprememb na MASTER veji
 }
 //---------------------------------------------------------------------------
