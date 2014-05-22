@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<mpis_project>
+<tip>EXE</tip>
+<podtip>BIG</podtip>
+<ime>blokade</ime>
+<glavni_modul>blokade</glavni_modul>
+<opis>Blokade deblokade</opis>
+  <libs>
+		<lib>Ktst2</lib>
+    <lib>zlib2</lib>
+    <lib>w3btrv7</lib>
+  </libs>
+  <bpls>
+    <bpl>asgc6</bpl>
+    <bpl>dbrtl</bpl>		
+    <bpl>kov2</bpl>
+    <bpl>kovsyst2</bpl>
+    <bpl>ktsyst2</bpl>
+    <bpl>merlanguages</bpl>		
+    <bpl>pb200r65</bpl>
+    <bpl>pc200r65</bpl>
+    <bpl>ps200r65</bpl>
+    <bpl>rtl</bpl>
+    <bpl>vcl</bpl>
+    <bpl>vcldb</bpl>
+    <bpl>xmlrtl</bpl>
+  </bpls>
+  <forme>
+    <forma>untMain</forma>
+  </forme>
+  <moduli>
+    <modul>Blocade_deblocade</modul>
+    <modul>blokade</modul>
+  </moduli>
+</mpis_project>
