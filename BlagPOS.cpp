@@ -23,5 +23,7 @@ WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
     Application->ShowException(&exception);
   }
   return 0;
+  //
+  // naistem mestu naredimo še spremebno na veji-1
 }
 //---------------------------------------------------------------------------
