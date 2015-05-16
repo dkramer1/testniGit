@@ -3,6 +3,7 @@
 #pragma hdrstop
 
 #include "kovsyst2.h"
+#include "ktsyst2.h"
 
 USEFORM("BlagPOSDM.cpp", DM);
 USEFORM("BlagPOS0100.cpp", frmBlagPOS0100);
