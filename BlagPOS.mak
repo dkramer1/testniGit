@@ -211,6 +211,7 @@ $(PROJECT): $(OTHERFILES) $(IDLGENFILES) $(OBJFILES) $(RESDEPEN) $(DEFFILE)
     $(BCB)\BIN\$(BRCC32) $(RFLAGS) -I$(INCLUDEPATH) -D$(USERDEFINES);$(SYSDEFINES) -fo$@ $<
 
  sedaj delamo spremembo na veji 24, dodatek
+ 
 
 # ---------------------------------------------------------------------------
 
