@@ -210,7 +210,11 @@ $(PROJECT): $(OTHERFILES) $(IDLGENFILES) $(OBJFILES) $(RESDEPEN) $(DEFFILE)
 .rc.res:
     $(BCB)\BIN\$(BRCC32) $(RFLAGS) -I$(INCLUDEPATH) -D$(USERDEFINES);$(SYSDEFINES) -fo$@ $<
 
+
 naredimo spremembo (veja23)
+
+sedaj delamo spremembo na veji 24, dodatek
+ 
 
 # ---------------------------------------------------------------------------
 
